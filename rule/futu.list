@@ -1,0 +1,16 @@
+# Futu / Moomoo / 富途 - Core
+DOMAIN-SUFFIX,futunn.com,futu
+DOMAIN-SUFFIX,moomoo.com,futu
+DOMAIN-SUFFIX,futuholdings.com,futu
+DOMAIN-SUFFIX,futuhk.com,futu
+DOMAIN-SUFFIX,futufin.com,futu
+
+# Futu Quote / Trade - Optional explicit rules
+DOMAIN,qtcard.futunn.com,futu
+DOMAIN,qtcardfthk.futufin.com,futu
+DOMAIN,openapi.futunn.com,futu
+DOMAIN,api.futunn.com,futu
+DOMAIN,api5.futunn.com,futu
+DOMAIN,trade.futunn.com,futu
+DOMAIN,support.futunn.com,futu
+DOMAIN,download.futunn.com,futu
