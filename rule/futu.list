@@ -1,9 +1,34 @@
 # Futu / Moomoo / 富途 - Core
-DOMAIN-SUFFIX,futunn.com,futu
-DOMAIN-SUFFIX,moomoo.com,futu
-DOMAIN-SUFFIX,futuholdings.com,futu
 DOMAIN-SUFFIX,futuhk.com,futu
+DOMAIN-SUFFIX,futu.link,futu
+DOMAIN-SUFFIX,futunn.com,futu
+DOMAIN-SUFFIX,futuhn.com,futu
+DOMAIN-SUFFIX,futu.com,futu
+DOMAIN-SUFFIX,futu0.com,futu
+DOMAIN-SUFFIX,futu1.com,futu
+DOMAIN-SUFFIX,futu2.com,futu
+DOMAIN-SUFFIX,futu3.com,futu
+DOMAIN-SUFFIX,futu4.com,futu
+DOMAIN-SUFFIX,futu5.com,futu
+DOMAIN-SUFFIX,futu6.com,futu
+DOMAIN-SUFFIX,futu7.com,futu
+DOMAIN-SUFFIX,futu8.com,futu
+DOMAIN-SUFFIX,futu9.com,futu
+DOMAIN-SUFFIX,futuinc.com,futu
+DOMAIN-SUFFIX,futuniuniu.com,futu
+DOMAIN-SUFFIX,futu.cn,futu
 DOMAIN-SUFFIX,futufin.com,futu
+DOMAIN-SUFFIX,futuhk2.com,futu
+DOMAIN-SUFFIX,futuholdings.com,futu
+DOMAIN-SUFFIX,futuesop.com,futu
+DOMAIN-SUFFIX,futubull.cn,futu
+DOMAIN-SUFFIX,futuchain.com,futu
+DOMAIN-SUFFIX,moomoo.com,futu
+DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com,futu
+DOMAIN-SUFFIX,shortconn.im.qcloud.com,futu
+DOMAIN-SUFFIX,cdn.futustatic.com,futu
+DOMAIN-SUFFIX,api.moomoobull.com,futu
+DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com,futu
 
 # Futu Quote / Trade - Optional explicit rules
 DOMAIN,qtcard.futunn.com,futu
@@ -14,3 +39,4 @@ DOMAIN,api5.futunn.com,futu
 DOMAIN,trade.futunn.com,futu
 DOMAIN,support.futunn.com,futu
 DOMAIN,download.futunn.com,futu
+
